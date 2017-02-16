@@ -1,0 +1,9 @@
+C:\Projects\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.deps.json
+C:\Projects\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.runtimeconfig.json
+C:\Projects\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.runtimeconfig.dev.json
+C:\Projects\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.dll
+C:\Projects\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.pdb
+C:\Projects\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.csprojResolveAssemblyReference.cache
+C:\Projects\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.AssemblyInfo.cs
+C:\Projects\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.dll
+C:\Projects\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.pdb
