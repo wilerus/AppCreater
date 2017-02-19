@@ -7,3 +7,12 @@ C:\Projects\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.csprojResol
 C:\Projects\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.AssemblyInfo.cs
 C:\Projects\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.dll
 C:\Projects\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.pdb
+C:\Users\Владислав\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.deps.json
+C:\Users\Владислав\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.runtimeconfig.json
+C:\Users\Владислав\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.runtimeconfig.dev.json
+C:\Users\Владислав\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.dll
+C:\Users\Владислав\AppCreater\AppCreater\bin\Debug\netcoreapp1.0\AppCreater.pdb
+C:\Users\Владислав\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.AssemblyInfo.cs
+C:\Users\Владислав\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.dll
+C:\Users\Владислав\AppCreater\AppCreater\obj\Debug\netcoreapp1.0\AppCreater.pdb

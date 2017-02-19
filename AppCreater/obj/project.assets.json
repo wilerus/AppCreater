@@ -21521,10 +21521,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AppCreater\\AppCreater\\AppCreater.csproj",
+      "projectUniqueName": "C:\\Users\\Владислав\\AppCreater\\AppCreater\\AppCreater.csproj",
       "projectName": "AppCreater",
-      "projectPath": "C:\\Projects\\AppCreater\\AppCreater\\AppCreater.csproj",
-      "outputPath": "C:\\Projects\\AppCreater\\AppCreater\\obj\\",
+      "projectPath": "C:\\Users\\Владислав\\AppCreater\\AppCreater\\AppCreater.csproj",
+      "outputPath": "C:\\Users\\Владислав\\AppCreater\\AppCreater\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
